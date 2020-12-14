@@ -1,10 +1,11 @@
 package exercicio5;
-import java.util.*;
 
+import java.util.Scanner;
 
 public class ex2 {
-	static Scanner leia = new Scanner(System.in);
+	
 	public static void main(String[] args) {
+		Scanner leia = new Scanner(System.in);
 		
 		double peso, altura, imc;
 		
@@ -25,6 +26,5 @@ public class ex2 {
 			System.out.printf("Seu IMC é de %.2f, você está obeso.", imc);
 		}
 	}
-
 
 }

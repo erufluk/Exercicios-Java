@@ -35,5 +35,4 @@ public class ex5 {
 		}
 		
 	}
-	
 }

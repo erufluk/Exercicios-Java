@@ -1,8 +1,8 @@
 package exercicio5;
 
 public class ex4 {
+
 	public static void main(String[] args) {
-		
 		double soma=0.0, somaL=0.0;
 		int dividendo=1;
 		
@@ -14,7 +14,5 @@ public class ex4 {
 		soma = 1 + somaL;
 		System.out.println("\nA soma das frações é: " + soma);
 	}
-		
-		
-		
-	}
+	
+}
